@@ -77,8 +77,10 @@ Chúng ta sẽ tính tổng chi phí hàng ngày bằng cách cộng chi phí c�
 
 
 ## Tính chi phí cho Bài tập 2
-![image](https://github.com/user-attachments/assets/f5f9501f-cb64-4c69-ba9b-341b9962076d)
-![image](https://github.com/user-attachments/assets/f4336d83-50e6-47c5-a0a6-220c105f3c40)
+| | |
+|--------|--------|
+| ![image](https://github.com/user-attachments/assets/cbdc072f-dd4d-40fe-8b36-1a4f5335dad6) | ![image](https://github.com/user-attachments/assets/f4336d83-50e6-47c5-a0a6-220c105f3c40) |
+
 
 - **Ngày 0**: Công việc A (ESD=0, EFD=3) → 20  
   Tổng chi phí hàng ngày = 20  
