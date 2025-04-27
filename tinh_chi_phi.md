@@ -1,8 +1,9 @@
 ## Tính chi phí
 Chúng ta sẽ tính tổng chi phí hàng ngày bằng cách cộng chi phí của các công việc đang hoạt động (từ ESD đến EFD, bao gồm ESD nhưng không bao gồm EFD). Sau đó, tính chi phí tích lũy bằng cách cộng dồn chi phí hàng ngày.
 ## Tính chi phí cho Bài tập 1
-![image](https://github.com/user-attachments/assets/e833f66b-65a3-4d49-901f-621c5b32f05f)
-![image](https://github.com/user-attachments/assets/da563dda-f5fd-480d-8d96-1afa8117b98b)
+| | |
+|--------|--------|
+| ![image](https://github.com/user-attachments/assets/1ac04633-ce1e-47ce-a3b0-3e72aab1d3a1) | ![image](https://github.com/user-attachments/assets/da563dda-f5fd-480d-8d96-1afa8117b98b) |
 
 - **Ngày 0**: Công việc A (ESD=0, EFD=1) → 55  
   Tổng chi phí hàng ngày = 55  
