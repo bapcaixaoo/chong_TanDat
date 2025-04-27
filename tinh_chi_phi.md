@@ -72,7 +72,7 @@ Chúng ta sẽ tính tổng chi phí hàng ngày bằng cách cộng chi phí c�
   Tổng = 0  
   Chi phí tích lũy = 3435 + 0 = 3435
 
-**Kết quả**
+## Kết quả
 ![image](https://github.com/user-attachments/assets/d2087202-11f4-4c73-9649-bf751127cb7f)
 
 
@@ -143,5 +143,5 @@ Chúng ta sẽ tính tổng chi phí hàng ngày bằng cách cộng chi phí c�
   Tổng = 0  
   Chi phí tích lũy = 1250 + 0 = 1250
   
-**Kết quả**
+## Kết quả
 ![image](https://github.com/user-attachments/assets/71d5f1c0-70c1-4d4e-91d1-310a7494947b)
